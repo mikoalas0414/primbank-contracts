@@ -18,6 +18,8 @@ Back-end (contratos inteligentes - solidity) para o projeto PrimBank, um projeto
 para troca de ativos. 
 <br/><br />
 
+Os arquivos do front-end (Dapp) desse projeto se encontra nesse <a href="https://github.com/skyxcripto/primBank-frontend">repositório</a>. 
+
 - Os contratos foram verificados na Testnet da Binanance Smart Chain em: 
 
 <p style="text-align: center;">
