@@ -23,7 +23,7 @@ para troca de ativos.
 - OpenZeppelin Contracts
 - Truffle 
 - NodeJs
-- Momiclabs plugins
+- Nomiclabs plugins
 
 
 <!-- GETTING STARTED -->
