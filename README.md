@@ -19,7 +19,11 @@ para troca de ativos.
 
 ### Feito Com
 
-Abaixo segue o que foi utilizado na criação deste template:
+- Solidity
+- OpenZeppelin Contracts
+- Truffle 
+- NodeJs
+- Momiclabs plugins
 
 
 <!-- GETTING STARTED -->
