@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://www.oprimorico.com.br/">
-    <img src="https://github.com/skyxcripto/primbank-contracts/favicon.png alt="Logo">
+    <img src="https://github.com/skyxcripto/primbank-contracts/blob/main/public/favicon.png" alt="Logo">
   </a>
 
   <h3 align="center">Project Test OsPrimos | PrimBank Contracts </h3>
@@ -119,7 +119,15 @@ module.exports = function (deployer) {
 
 Primeiramente é necessário realizar o Link entre IterableMapping e primBank para depois realizar o deploy do primSwap com endereço do primBank obtivo. 
 
+Deploy finalizado: 
 
+<p align="center">
+  <a href="https://www.oprimorico.com.br/">
+    <img src="https://github.com/skyxcripto/primbank-contracts/blob/main/public/Deploy_ok.png"  alt="Logo">
+  </a>
+
+  <h3 align="center">Project Test OsPrimos | PrimBank Contracts </h3>
+</p>
 
 ---
 
