@@ -16,12 +16,12 @@
 
 Back-end (contratos inteligentes - solidity) para o projeto PrimBank, um projeto completo de um ativo onde os investidores recebem USD de recomepensa e possuindo assim uma exchange ou Swap 
 para troca de ativos. 
-<br/>
+<br/><br />
 
 - Os contratos foram verificados na Testnet da Binanance Smart Chain em: 
-- 
+
 <p align="center">
-<table border="1" style="display: flex; flex-direction: row; justify-content: center;">
+<table border="1" style="margin-left: 50px">
     <tr>
         <th>Endereço PrimBank </th>
         <th>Endereço PrimSwap</th>
