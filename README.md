@@ -20,7 +20,7 @@ para troca de ativos.
 
 - Os contratos foram verificados na Testnet da Binanance Smart Chain em: 
 
-<p align="center">
+<p style="text-align: center;">
 <table border="1" style="margin-left: 50px">
     <tr>
         <th>Endereço PrimBank </th>
