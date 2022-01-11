@@ -16,10 +16,31 @@
 
 Back-end (contratos inteligentes - solidity) para o projeto PrimBank, um projeto completo de um ativo onde os investidores recebem USD de recomepensa e possuindo assim uma exchange ou Swap 
 para troca de ativos. 
+<br/><br />
+
+- Os contratos foram verificados na Testnet da Binanance Smart Chain em: 
+
+<p style="text-align: center;">
+<table border="1" style="margin-left: 50px">
+    <tr>
+        <th>Endereço PrimBank </th>
+        <th>Endereço PrimSwap</th>
+    </tr>
+    <tr>
+      <td><a href="https://testnet.bscscan.com/address/0x0f4de3eF051AA3d982DA7975ac1Be17eC802EaBb#code"> 0x0f4de3eF051AA3d982DA7975ac1Be17eC802EaBb </a></td>
+       <td><a href="https://testnet.bscscan.com/address/0xf54B5d207dBC3459B15275c8DC5D84b5acFAA607#code"> 0xf54B5d207dBC3459B15275c8DC5D84b5acFAA607 </a></td>
+    </tr>
+</table>
+</p>
+<br/>
 
 ### Feito Com
 
-Abaixo segue o que foi utilizado na criação deste template:
+- Solidity
+- OpenZeppelin Contracts
+- Truffle 
+- NodeJs
+- Nomiclabs plugins
 
 
 <!-- GETTING STARTED -->
@@ -123,7 +144,7 @@ Deploy finalizado:
 
 <p align="center">
   <a href="https://www.oprimorico.com.br/">
-    <img src="https://github.com/skyxcripto/primbank-contracts/blob/main/public/Deploy_ok.png"  alt="Logo">
+    <img src="https://github.com/skyxcripto/primbank-contracts/blob/main/public/deploy.png"  alt="Logo">
   </a>
 
   <h3 align="center">Project Test OsPrimos | PrimBank Contracts </h3>
