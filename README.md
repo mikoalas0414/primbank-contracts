@@ -123,7 +123,7 @@ Deploy finalizado:
 
 <p align="center">
   <a href="https://www.oprimorico.com.br/">
-    <img src="https://github.com/skyxcripto/primbank-contracts/blob/main/public/Deploy_ok.png"  alt="Logo">
+    <img src="https://github.com/skyxcripto/primbank-contracts/blob/main/public/deploy.png"  alt="Logo">
   </a>
 
   <h3 align="center">Project Test OsPrimos | PrimBank Contracts </h3>
